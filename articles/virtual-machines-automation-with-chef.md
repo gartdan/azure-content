@@ -110,7 +110,7 @@ Next Download and install the ChefDK (Chef Development Kit) to setup your Chef W
 
 This is straight forward. Let it install in its default location of c:\opscode. This install will take around 10 minutes.
 
-Confirm your PATH variable contains entries for C:\opscode\chefdk\bin;C:\opscode\chefdk\embedded\bin;c:\users\yourusername\.chefdk\gem\ruby\2.0.0\bin
+Confirm your PATH variable contains entries for C:\opscode\chefdk\bin;C:\opscode\chefdk\embedded\bin;c:\users\yourusername\\.chefdk\gem\ruby\2.0.0\bin
 
 If they are not there, make sure you add these paths!
 
